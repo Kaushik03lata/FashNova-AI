@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FashNova AI</title>
+    <style>
+  /* Background gradient */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: linear-gradient(135deg, #f0eafc, #d4c1ec);
+    padding: 40px 20px;
+    color: #3b2c65;
+  }
+
+  /* Main heading */
+  h1 {
+    font-size: 3.2rem;
+    font-weight: 700;
+    color: #5e2a86; /* deep purple */
+    margin-bottom: 30px;
+  }
+
+  /* Mood buttons container */
+  .mood-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 25px;  /* increased spacing */
+    margin-bottom: 15px;
+  }
+
+  /* Mood buttons base style */
+  .emoji-button {
+    font-size: 1rem;
+    padding: 5px 5px;
+    border: 1px solid #5e2a86;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #cdb4db;  /* soft lavender */
+    color: #3b2c65;
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 45px 50px rgba(94, 42, 134, 0.2);
+  }
+
+  /* Mood buttons hover effect */
+  .emoji-button:hover {
+    background-color: #9a79c9;
+    color: #fff;
+    transform: scale(1.1);
+  }
+
+  /* Mood button active state - red or purple */
+  .emoji-button.active-red {
+    background-color: #e63946; /* strong red */
+    color: white;
+    border-color: #b02a37;
+  }
+
+  .emoji-button.active-purple {
+    background-color: #6a4c93; /* dark purple */
+    color: white;
+    border-color: #51397d;
+  }
+
+  /* Spacing for all buttons */
+  button, select, input[type="text"] {
+    margin: 12px 10px;
+    padding: 12px 20px;
+    font-size: 1.1rem;
+    border-radius: 12px;
+    border: 2px solid #5e2a86;
+    outline: none;
+    transition: all 0.3s ease;
+  }
+
+  /* Buttons base style */
+  button[type="submit"], button[type="button"] {
+    background-color: #7b5ea3;
+    color: white;
+    font-weight: 600;
+    box-shadow: 0 4px 12px rgba(123, 94, 163, 0.4);
+    cursor: pointer;
+  }
+
+  button[type="submit"]:hover, button[type="button"]:hover {
+    background-color: #5e3a8f;
+    box-shadow: 0 6px 18px rgba(94, 58, 143, 0.6);
+  }
+
+  /* Stylish dropdown */
+  select {
+    background-color: #dcd6f7;
+    color: #3b2c65;
+  }
+
+  select:hover {
+    background-color: #c1b3e6;
+  }
+
+  /* Input box style */
+  input[type="text"] {
+    border-color: #b7aee2;
+  }
+
+  input[type="text"]:focus, select:focus {
+    border-color: #5e2a86;
+    box-shadow: 0 0 8px 2px rgba(94, 42, 134, 0.5);
+  }
+
+  /* Larger secondary headings */
+  h3 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #5e2a86;
+    margin-top: 50px;
+  }
+  /* Output container style */
+.output-box {
+  max-width: 600px;
+  margin: 30px auto 50px auto;
+  padding: 25px 30px;
+  background-color: #fff9fb; /* very light pastel pink */
+  border-radius: 18px;
+  box-shadow: 0 8px 20px rgba(94, 42, 134, 0.3); /* soft purple shadow */
+  color: #4a2c69;
+  font-size: 1.3rem;
+  font-weight: 600;
+  text-align: center;
+  position: relative;
+  opacity: 0;
+  transform: scale(0.95);
+  animation: fadeInPop 0.5s forwards ease-out;
+}
+
+/* Animation to fade in and scale up */
+@keyframes fadeInPop {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+</style>
+<!-- Inside <head>, add this just before </style> -->
+<style>
+  .emoji-button.active-red {
+    background-color: #e63946; /* strong red */
+    color: white;
+    border-color: #b02a37;
+  }
+</style>
+
+
+</head>
+<body>
+    <h1> FashNova AI 🧥 </h1>
+
+    <form id="locationForm" action="/recommend" method="post">
+    <input type="hidden" name="lat" id="lat">
+    <input type="hidden" name="lon" id="lon">
+    <input type="hidden" name="mood" id="moodInput">
+
+    <input type="text" name="city" placeholder="Or enter your city">
+    <br><br>
+
+    <!-- Your existing mood buttons: replaced onclick handlers with data attributes -->
+
+<div class="mood-buttons">
+  <button type="button" class="emoji-button" data-mood="Happy">😊 Happy</button>
+  <button type="button" class="emoji-button" data-mood="Lazy">😴 Lazy</button>
+  <button type="button" class="emoji-button" data-mood="Excited">🎉 Excited</button>
+  <button type="button" class="emoji-button" data-mood="Sad">😢 Sad</button>
+  <button type="button" class="emoji-button" data-mood="Angry">😠 Angry</button>
+  <button type="button" class="emoji-button" data-mood="Neutral">😐 Neutral</button>
+  <button type="button" class="emoji-button" data-mood="Romantic">😍 Romantic</button>
+</div>
+
+    <br>
+
+    <label for="style">Style Preference:</label>
+    <select id="style" name="style" required>
+        <option value="" disabled selected>Select your style</option>
+        <option value="Casual">Casual</option>
+        <option value="Formal">Formal</option>
+        <option value="Sporty">Sporty</option>
+        <option value="Ethnic">Ethnic</option>
+        <option value="Trendy">Trendy</option>
+    </select>
+    <br><br>
+
+    <label for="gender">Gender:</label>
+    <select id="gender" name="gender" required>
+        <option value="" disabled selected>Select your gender</option>
+        <option value="Male">Male</option>
+        <option value="Female">Female</option>
+    </select>
+    <br><br>
+
+    <button type="submit">Get Outfit by City</button>
+    <button type="button" onclick="getLocation()">Get Outfit by My Location</button>
+</form>
+
+
+    {% if temp %}
+        <div class="result">
+            <h2>📍 Location: {{ city }}</h2>
+            <p>🌡️ Temperature: {{ temp }}°C</p>
+            <p>🌤️ Weather: {{ description }}</p>
+            <p>{{ weather_tip }}</p>
+           
+        </div>
+    {% elif error %}
+        <div class="result" style="color:red;">
+            <p>{{ error }}</p>
+        </div>
+    {% endif %}
+
+    <script>
+  function selectMood(mood) {
+    document.getElementById("moodInput").value = mood;
+
+    // Remove active classes from all mood buttons
+    const buttons = document.querySelectorAll('.emoji-button');
+    buttons.forEach(btn => {
+      btn.classList.remove('active-red', 'active-purple');
+    });
+
+    // Add active class to clicked button: red for Happy, purple for others
+    let activeClass = (mood === 'Happy') ? 'active-red' : 'active-purple';
+
+    // Find the clicked button by text content (emoji + mood)
+    buttons.forEach(btn => {
+      if (btn.textContent.includes(mood)) {
+        btn.classList.add(activeClass);
+      }
+    });
+  }
+</script>
+<div class="output-box">
+  <h3>👕 Outfit Recommendation:</h3>
+  <p>{{ outfit }}</p>
+</div>
+
+<a href="{{ amazon_link }}" target="_blank">
+    <button style="padding:10px 20px; background-color:#FF9900; color:white; border:none; border-radius:5px;">
+        🔍 Search on Amazon
+    </button>
+</a>
+
+<a href="{{ flipkart_link }}" target="_blank">
+    <button style="padding:10px 20px; background-color:#2874F0; color:white; border:none; border-radius:5px; margin-left:10px;">
+        🔍 Search on Flipkart
+    </button>
+</a>
+<!-- Add this script at the bottom of <body>, just before </body> -->
+<script>
+  const moodButtons = document.querySelectorAll('.emoji-button');
+  const moodInput = document.getElementById('moodInput');
+
+  moodButtons.forEach(button => {
+    button.addEventListener('click', () => {
+      // Clear all active moods
+      moodButtons.forEach(btn => btn.classList.remove('active-red'));
+
+      // Set this one as active
+      button.classList.add('active-red');
+
+      // Update hidden input
+      const selectedMood = button.getAttribute('data-mood');
+      moodInput.value = selectedMood;
+    });
+  });
+</script>
+
+</body>
+</html>

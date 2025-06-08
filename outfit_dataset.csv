@@ -1,0 +1,501 @@
+Mood,Gender,Weather,Style,Outfit Label
+Lazy,Female,Cold,Ethnic,Loose kurti with palazzos
+Angry,Male,Cold,Sporty,Dark leather jacket and ripped jeans
+Romantic,Male,Mild,Sporty,Casual blazer and jeans
+Angry,Male,Cold,Formal,Black t-shirt with cargo pants
+Neutral,Male,Mild,Casual,Sweatshirt and jeans
+Romantic,Male,Cold,Ethnic,Formal shirt and trousers
+Sad,Female,Cold,Sporty,Warm sweater with jeans
+Neutral,Female,Cold,Ethnic,Simple kurti with palazzos
+Angry,Female,Mild,Formal,Black leather jacket and ripped jeans
+Lazy,Female,Cold,Casual,Cozy sweater with leggings
+Happy,Male,Warm,Trendy,Blazer & Jeans
+Sad,Male,Mild,Trendy,Dark leather jacket and ripped jeans
+Neutral,Male,Cold,Casual,Casual t-shirt and chinos
+Sad,Male,Mild,Trendy,Dark leather jacket and ripped jeans
+Neutral,Female,Cold,Ethnic,Simple kurti with palazzos
+Sad,Male,Cold,Trendy,Dark leather jacket and ripped jeans
+Sad,Female,Mild,Formal,Loose kurti with palazzos
+Happy,Female,Cold,Ethnic,Kurti with palazzos
+Angry,Female,Cold,Trendy,Black leather jacket and ripped jeans
+Romantic,Male,Warm,Sporty,Casual blazer and jeans
+Happy,Female,Cold,Casual,Summer dress with sandals
+Sad,Female,Mild,Trendy,Loose kurti with palazzos
+Happy,Male,Mild,Casual,Light cotton shirt with shorts
+Romantic,Female,Warm,Formal,Ethnic saree with blouse
+Neutral,Female,Warm,Casual,Simple kurti with palazzos
+Excited,Female,Cold,Ethnic,Summer dress with sandals
+Excited,Male,Cold,Casual,Blazer & Jeans
+Angry,Male,Warm,Trendy,Black t-shirt with cargo pants
+Romantic,Male,Mild,Sporty,Formal shirt and trousers
+Excited,Male,Cold,Formal,Formal shirt and trousers
+Happy,Female,Cold,Trendy,Trendy crop top and jeans
+Angry,Female,Cold,Ethnic,Black leather jacket and ripped jeans
+Lazy,Male,Cold,Formal,Sweatpants and sweatshirt
+Sad,Male,Cold,Ethnic,Warm sweater with jeans
+Sad,Female,Mild,Ethnic,Warm sweater with jeans
+Happy,Male,Warm,Trendy,Blazer & Jeans
+Neutral,Male,Mild,Sporty,Casual t-shirt and chinos
+Angry,Female,Cold,Ethnic,Dark casual dress
+Excited,Female,Warm,Trendy,Summer dress with sandals
+Happy,Female,Warm,Ethnic,Kurti with palazzos
+Romantic,Male,Warm,Casual,Casual blazer and jeans
+Sad,Female,Mild,Ethnic,Loose kurti with palazzos
+Excited,Male,Cold,Sporty,Formal shirt and trousers
+Romantic,Female,Cold,Sporty,Ethnic saree with blouse
+Happy,Male,Mild,Sporty,Formal shirt and trousers
+Neutral,Male,Mild,Sporty,Sweatshirt and jeans
+Lazy,Male,Warm,Trendy,Casual t-shirt and shorts
+Romantic,Female,Mild,Sporty,Ethnic saree with blouse
+Angry,Female,Warm,Ethnic,Black leather jacket and ripped jeans
+Excited,Male,Warm,Sporty,Blazer & Jeans
+Sad,Female,Cold,Trendy,Warm sweater with jeans
+Lazy,Male,Mild,Trendy,Warm hoodie and jeans
+Sad,Female,Warm,Ethnic,Loose kurti with palazzos
+Happy,Female,Mild,Sporty,Warm hoodie and jeans
+Romantic,Male,Mild,Trendy,Formal shirt and trousers
+Romantic,Female,Mild,Sporty,Elegant floral dress
+Romantic,Male,Warm,Ethnic,Casual blazer and jeans
+Angry,Male,Mild,Formal,Black t-shirt with cargo pants
+Lazy,Female,Cold,Trendy,Sweatpants and hoodie
+Romantic,Female,Warm,Ethnic,Elegant floral dress
+Neutral,Female,Mild,Casual,Simple kurti with palazzos
+Happy,Female,Mild,Sporty,Kurti with palazzos
+Romantic,Male,Mild,Trendy,Casual blazer and jeans
+Romantic,Female,Mild,Trendy,Ethnic saree with blouse
+Lazy,Female,Mild,Casual,Sweatpants and hoodie
+Lazy,Male,Cold,Trendy,Warm hoodie and jeans
+Happy,Male,Cold,Formal,Light cotton shirt with shorts
+Neutral,Female,Mild,Trendy,Simple kurti with palazzos
+Angry,Male,Warm,Trendy,Dark leather jacket and ripped jeans
+Lazy,Male,Mild,Trendy,Sweatpants and sweatshirt
+Romantic,Female,Cold,Sporty,Elegant floral dress
+Happy,Female,Cold,Trendy,Summer dress with sandals
+Sad,Female,Cold,Casual,Warm sweater with jeans
+Happy,Female,Mild,Formal,Ethnic saree with blouse
+Romantic,Female,Warm,Ethnic,Elegant floral dress
+Excited,Male,Warm,Casual,Formal shirt and trousers
+Neutral,Male,Warm,Formal,Casual t-shirt and chinos
+Lazy,Male,Warm,Casual,Sweatpants and sweatshirt
+Sad,Female,Cold,Casual,Warm sweater with jeans
+Angry,Female,Mild,Formal,Dark casual dress
+Excited,Male,Mild,Ethnic,Sporty Tracksuit
+Angry,Female,Cold,Formal,Dark casual dress
+Romantic,Female,Warm,Casual,Ethnic saree with blouse
+Lazy,Male,Cold,Casual,Casual t-shirt and shorts
+Happy,Female,Mild,Ethnic,Trendy crop top and jeans
+Happy,Female,Mild,Trendy,Trendy crop top and jeans
+Neutral,Male,Warm,Formal,Casual t-shirt and chinos
+Excited,Female,Warm,Casual,Ethnic saree with blouse
+Excited,Male,Mild,Casual,Blazer & Jeans
+Neutral,Male,Cold,Sporty,Sweatshirt and jeans
+Neutral,Female,Mild,Casual,Casual t-shirt and jeans
+Happy,Female,Cold,Formal,Kurti with palazzos
+Angry,Female,Mild,Sporty,Dark casual dress
+Angry,Male,Mild,Trendy,Black t-shirt with cargo pants
+Lazy,Male,Mild,Formal,Casual t-shirt and shorts
+Romantic,Male,Warm,Trendy,Casual blazer and jeans
+Sad,Female,Mild,Casual,Warm sweater with jeans
+Excited,Male,Mild,Sporty,Formal shirt and trousers
+Lazy,Female,Cold,Formal,Cozy sweater with leggings
+Happy,Male,Mild,Sporty,Sporty Tracksuit
+Lazy,Male,Cold,Casual,Casual t-shirt and shorts
+Angry,Male,Warm,Formal,Black t-shirt with cargo pants
+Neutral,Male,Cold,Formal,Casual t-shirt and chinos
+Neutral,Female,Warm,Trendy,Simple kurti with palazzos
+Happy,Female,Warm,Sporty,Warm hoodie and jeans
+Excited,Male,Cold,Casual,Sporty Tracksuit
+Angry,Female,Mild,Ethnic,Dark casual dress
+Angry,Male,Warm,Formal,Black t-shirt with cargo pants
+Neutral,Male,Warm,Sporty,Casual t-shirt and chinos
+Lazy,Female,Mild,Sporty,Cozy sweater with leggings
+Sad,Male,Cold,Casual,Warm sweater with jeans
+Sad,Female,Cold,Ethnic,Loose kurti with palazzos
+Neutral,Female,Cold,Trendy,Simple kurti with palazzos
+Neutral,Female,Warm,Formal,Casual t-shirt and jeans
+Lazy,Female,Warm,Ethnic,Sweatpants and hoodie
+Angry,Male,Mild,Casual,Dark leather jacket and ripped jeans
+Romantic,Male,Mild,Trendy,Formal shirt and trousers
+Happy,Female,Cold,Ethnic,Warm hoodie and jeans
+Romantic,Male,Cold,Casual,Formal shirt and trousers
+Lazy,Female,Mild,Ethnic,Loose kurti with palazzos
+Neutral,Male,Cold,Casual,Sweatshirt and jeans
+Angry,Male,Warm,Formal,Black t-shirt with cargo pants
+Neutral,Male,Warm,Trendy,Casual t-shirt and chinos
+Sad,Female,Warm,Sporty,Warm sweater with jeans
+Excited,Female,Cold,Trendy,Summer dress with sandals
+Sad,Female,Mild,Ethnic,Loose kurti with palazzos
+Neutral,Female,Warm,Sporty,Simple kurti with palazzos
+Excited,Female,Warm,Sporty,Ethnic saree with blouse
+Sad,Female,Warm,Sporty,Warm sweater with jeans
+Sad,Female,Mild,Trendy,Warm sweater with jeans
+Excited,Female,Cold,Casual,Trendy crop top and jeans
+Romantic,Female,Cold,Trendy,Elegant floral dress
+Excited,Female,Cold,Casual,Summer dress with sandals
+Angry,Male,Warm,Casual,Dark leather jacket and ripped jeans
+Lazy,Female,Warm,Trendy,Loose kurti with palazzos
+Romantic,Male,Cold,Sporty,Casual blazer and jeans
+Angry,Female,Warm,Casual,Black leather jacket and ripped jeans
+Excited,Male,Warm,Trendy,Formal shirt and trousers
+Angry,Female,Mild,Formal,Black leather jacket and ripped jeans
+Neutral,Male,Mild,Sporty,Casual t-shirt and chinos
+Happy,Female,Cold,Ethnic,Ethnic saree with blouse
+Happy,Male,Warm,Trendy,Light cotton shirt with shorts
+Sad,Female,Cold,Casual,Warm sweater with jeans
+Angry,Male,Warm,Formal,Black t-shirt with cargo pants
+Neutral,Female,Warm,Trendy,Simple kurti with palazzos
+Happy,Female,Cold,Casual,Ethnic saree with blouse
+Sad,Female,Cold,Formal,Loose kurti with palazzos
+Lazy,Female,Cold,Sporty,Sweatpants and hoodie
+Lazy,Female,Mild,Formal,Loose kurti with palazzos
+Romantic,Male,Mild,Trendy,Casual blazer and jeans
+Romantic,Female,Warm,Formal,Ethnic saree with blouse
+Happy,Male,Cold,Casual,Sporty Tracksuit
+Neutral,Male,Warm,Trendy,Sweatshirt and jeans
+Excited,Female,Mild,Sporty,Summer dress with sandals
+Sad,Male,Cold,Ethnic,Warm sweater with jeans
+Excited,Female,Cold,Formal,Trendy crop top and jeans
+Romantic,Male,Cold,Casual,Formal shirt and trousers
+Romantic,Female,Warm,Formal,Ethnic saree with blouse
+Neutral,Female,Cold,Ethnic,Casual t-shirt and jeans
+Sad,Male,Cold,Ethnic,Warm sweater with jeans
+Romantic,Female,Warm,Sporty,Elegant floral dress
+Romantic,Female,Mild,Casual,Ethnic saree with blouse
+Happy,Female,Cold,Ethnic,Kurti with palazzos
+Angry,Male,Warm,Sporty,Black t-shirt with cargo pants
+Lazy,Male,Mild,Casual,Sweatpants and sweatshirt
+Happy,Female,Cold,Casual,Trendy crop top and jeans
+Excited,Female,Cold,Casual,Trendy crop top and jeans
+Lazy,Female,Cold,Sporty,Cozy sweater with leggings
+Excited,Female,Warm,Ethnic,Ethnic saree with blouse
+Sad,Male,Cold,Sporty,Warm sweater with jeans
+Lazy,Male,Warm,Formal,Casual t-shirt and shorts
+Happy,Male,Cold,Formal,Sporty Tracksuit
+Neutral,Male,Mild,Trendy,Sweatshirt and jeans
+Lazy,Female,Mild,Trendy,Loose kurti with palazzos
+Excited,Female,Warm,Formal,Ethnic saree with blouse
+Neutral,Male,Warm,Sporty,Sweatshirt and jeans
+Sad,Male,Cold,Casual,Warm sweater with jeans
+Excited,Female,Mild,Ethnic,Ethnic saree with blouse
+Angry,Female,Mild,Trendy,Dark casual dress
+Lazy,Male,Mild,Ethnic,Warm hoodie and jeans
+Romantic,Male,Warm,Casual,Casual blazer and jeans
+Sad,Male,Cold,Ethnic,Dark leather jacket and ripped jeans
+Excited,Male,Mild,Trendy,Formal shirt and trousers
+Excited,Male,Mild,Trendy,Formal shirt and trousers
+Lazy,Female,Warm,Casual,Sweatpants and hoodie
+Excited,Female,Mild,Ethnic,Ethnic saree with blouse
+Romantic,Female,Cold,Trendy,Ethnic saree with blouse
+Romantic,Male,Cold,Ethnic,Formal shirt and trousers
+Lazy,Female,Cold,Casual,Loose kurti with palazzos
+Romantic,Female,Cold,Casual,Ethnic saree with blouse
+Happy,Male,Warm,Ethnic,Blazer & Jeans
+Sad,Female,Cold,Ethnic,Loose kurti with palazzos
+Romantic,Female,Warm,Formal,Elegant floral dress
+Angry,Female,Warm,Casual,Dark casual dress
+Romantic,Male,Mild,Trendy,Formal shirt and trousers
+Romantic,Male,Warm,Ethnic,Formal shirt and trousers
+Angry,Male,Mild,Sporty,Dark leather jacket and ripped jeans
+Angry,Male,Warm,Trendy,Dark leather jacket and ripped jeans
+Angry,Female,Mild,Trendy,Black leather jacket and ripped jeans
+Happy,Male,Mild,Trendy,Light cotton shirt with shorts
+Excited,Male,Warm,Casual,Blazer & Jeans
+Angry,Female,Warm,Casual,Black leather jacket and ripped jeans
+Excited,Male,Cold,Formal,Blazer & Jeans
+Neutral,Female,Warm,Trendy,Casual t-shirt and jeans
+Excited,Male,Cold,Casual,Blazer & Jeans
+Sad,Male,Mild,Casual,Dark leather jacket and ripped jeans
+Angry,Female,Warm,Trendy,Black leather jacket and ripped jeans
+Romantic,Female,Mild,Trendy,Ethnic saree with blouse
+Neutral,Male,Warm,Sporty,Casual t-shirt and chinos
+Romantic,Male,Warm,Casual,Formal shirt and trousers
+Angry,Male,Warm,Trendy,Black t-shirt with cargo pants
+Romantic,Male,Warm,Formal,Casual blazer and jeans
+Romantic,Female,Cold,Trendy,Elegant floral dress
+Lazy,Female,Warm,Formal,Cozy sweater with leggings
+Sad,Female,Mild,Sporty,Warm sweater with jeans
+Excited,Male,Warm,Sporty,Blazer & Jeans
+Neutral,Female,Cold,Formal,Simple kurti with palazzos
+Sad,Female,Mild,Casual,Warm sweater with jeans
+Angry,Male,Cold,Casual,Black t-shirt with cargo pants
+Neutral,Male,Mild,Sporty,Casual t-shirt and chinos
+Happy,Male,Mild,Formal,Sporty Tracksuit
+Romantic,Female,Warm,Casual,Ethnic saree with blouse
+Neutral,Male,Cold,Casual,Sweatshirt and jeans
+Neutral,Male,Cold,Sporty,Sweatshirt and jeans
+Romantic,Female,Mild,Casual,Ethnic saree with blouse
+Neutral,Male,Cold,Sporty,Casual t-shirt and chinos
+Neutral,Male,Cold,Sporty,Casual t-shirt and chinos
+Lazy,Female,Mild,Formal,Loose kurti with palazzos
+Sad,Male,Cold,Ethnic,Warm sweater with jeans
+Romantic,Female,Cold,Sporty,Elegant floral dress
+Angry,Female,Mild,Trendy,Dark casual dress
+Romantic,Female,Warm,Casual,Elegant floral dress
+Romantic,Female,Mild,Ethnic,Elegant floral dress
+Angry,Male,Mild,Formal,Dark leather jacket and ripped jeans
+Neutral,Male,Mild,Sporty,Sweatshirt and jeans
+Neutral,Male,Warm,Trendy,Casual t-shirt and chinos
+Lazy,Male,Mild,Trendy,Casual t-shirt and shorts
+Sad,Female,Warm,Ethnic,Loose kurti with palazzos
+Happy,Male,Mild,Casual,Formal shirt and trousers
+Sad,Female,Cold,Casual,Warm sweater with jeans
+Happy,Female,Warm,Formal,Ethnic saree with blouse
+Lazy,Female,Mild,Ethnic,Sweatpants and hoodie
+Lazy,Female,Warm,Trendy,Sweatpants and hoodie
+Angry,Female,Cold,Trendy,Black leather jacket and ripped jeans
+Happy,Male,Mild,Sporty,Warm hoodie and jeans
+Excited,Female,Warm,Casual,Ethnic saree with blouse
+Angry,Male,Mild,Trendy,Black t-shirt with cargo pants
+Romantic,Male,Cold,Trendy,Casual blazer and jeans
+Neutral,Female,Warm,Ethnic,Simple kurti with palazzos
+Neutral,Male,Warm,Ethnic,Casual t-shirt and chinos
+Sad,Female,Mild,Trendy,Loose kurti with palazzos
+Excited,Female,Warm,Ethnic,Summer dress with sandals
+Romantic,Female,Cold,Ethnic,Elegant floral dress
+Happy,Male,Mild,Casual,Blazer & Jeans
+Lazy,Female,Warm,Ethnic,Sweatpants and hoodie
+Excited,Female,Cold,Ethnic,Summer dress with sandals
+Excited,Male,Cold,Ethnic,Blazer & Jeans
+Happy,Male,Cold,Formal,Light cotton shirt with shorts
+Happy,Female,Mild,Casual,Ethnic saree with blouse
+Excited,Male,Cold,Sporty,Formal shirt and trousers
+Lazy,Male,Mild,Trendy,Sweatpants and sweatshirt
+Lazy,Male,Warm,Formal,Casual t-shirt and shorts
+Excited,Female,Cold,Ethnic,Ethnic saree with blouse
+Romantic,Male,Mild,Ethnic,Casual blazer and jeans
+Sad,Male,Cold,Trendy,Warm sweater with jeans
+Excited,Male,Cold,Trendy,Blazer & Jeans
+Neutral,Female,Cold,Ethnic,Casual t-shirt and jeans
+Excited,Male,Warm,Casual,Sporty Tracksuit
+Sad,Female,Mild,Ethnic,Warm sweater with jeans
+Angry,Female,Mild,Ethnic,Dark casual dress
+Romantic,Female,Cold,Sporty,Ethnic saree with blouse
+Sad,Female,Mild,Casual,Loose kurti with palazzos
+Sad,Male,Mild,Ethnic,Dark leather jacket and ripped jeans
+Sad,Female,Cold,Formal,Warm sweater with jeans
+Lazy,Female,Mild,Casual,Loose kurti with palazzos
+Happy,Female,Warm,Casual,Trendy crop top and jeans
+Romantic,Female,Mild,Formal,Ethnic saree with blouse
+Lazy,Female,Cold,Casual,Cozy sweater with leggings
+Angry,Female,Cold,Sporty,Dark casual dress
+Excited,Female,Mild,Trendy,Trendy crop top and jeans
+Angry,Male,Mild,Trendy,Black t-shirt with cargo pants
+Happy,Male,Mild,Formal,Formal shirt and trousers
+Angry,Male,Mild,Formal,Black t-shirt with cargo pants
+Angry,Female,Mild,Formal,Dark casual dress
+Angry,Male,Mild,Formal,Black t-shirt with cargo pants
+Excited,Female,Mild,Ethnic,Summer dress with sandals
+Neutral,Male,Mild,Ethnic,Casual t-shirt and chinos
+Happy,Male,Warm,Trendy,Formal shirt and trousers
+Excited,Female,Mild,Sporty,Trendy crop top and jeans
+Neutral,Male,Warm,Sporty,Casual t-shirt and chinos
+Romantic,Male,Cold,Ethnic,Formal shirt and trousers
+Sad,Female,Warm,Casual,Loose kurti with palazzos
+Happy,Female,Mild,Casual,Summer dress with sandals
+Sad,Female,Warm,Ethnic,Warm sweater with jeans
+Sad,Female,Cold,Casual,Warm sweater with jeans
+Angry,Female,Mild,Casual,Black leather jacket and ripped jeans
+Happy,Male,Warm,Sporty,Blazer & Jeans
+Sad,Female,Warm,Casual,Loose kurti with palazzos
+Romantic,Female,Mild,Trendy,Ethnic saree with blouse
+Lazy,Female,Mild,Casual,Loose kurti with palazzos
+Angry,Female,Mild,Formal,Black leather jacket and ripped jeans
+Happy,Female,Mild,Sporty,Trendy crop top and jeans
+Angry,Male,Warm,Trendy,Black t-shirt with cargo pants
+Sad,Male,Mild,Sporty,Warm sweater with jeans
+Sad,Male,Mild,Trendy,Warm sweater with jeans
+Neutral,Male,Cold,Ethnic,Sweatshirt and jeans
+Sad,Female,Cold,Trendy,Loose kurti with palazzos
+Neutral,Male,Cold,Trendy,Casual t-shirt and chinos
+Happy,Male,Cold,Formal,Warm hoodie and jeans
+Angry,Male,Warm,Ethnic,Dark leather jacket and ripped jeans
+Sad,Female,Cold,Ethnic,Warm sweater with jeans
+Sad,Male,Mild,Casual,Warm sweater with jeans
+Neutral,Female,Mild,Trendy,Simple kurti with palazzos
+Sad,Female,Cold,Ethnic,Loose kurti with palazzos
+Neutral,Female,Cold,Casual,Simple kurti with palazzos
+Happy,Female,Warm,Formal,Summer dress with sandals
+Lazy,Female,Mild,Trendy,Sweatpants and hoodie
+Sad,Female,Warm,Ethnic,Warm sweater with jeans
+Lazy,Female,Warm,Ethnic,Loose kurti with palazzos
+Romantic,Male,Cold,Formal,Formal shirt and trousers
+Excited,Male,Mild,Trendy,Blazer & Jeans
+Excited,Male,Cold,Trendy,Formal shirt and trousers
+Angry,Male,Cold,Casual,Dark leather jacket and ripped jeans
+Romantic,Male,Cold,Trendy,Formal shirt and trousers
+Romantic,Male,Cold,Sporty,Casual blazer and jeans
+Neutral,Male,Cold,Ethnic,Sweatshirt and jeans
+Excited,Male,Warm,Casual,Formal shirt and trousers
+Happy,Male,Cold,Formal,Light cotton shirt with shorts
+Excited,Female,Warm,Formal,Summer dress with sandals
+Happy,Male,Mild,Formal,Warm hoodie and jeans
+Lazy,Male,Mild,Ethnic,Sweatpants and sweatshirt
+Lazy,Female,Mild,Formal,Sweatpants and hoodie
+Angry,Female,Cold,Formal,Dark casual dress
+Happy,Male,Cold,Casual,Light cotton shirt with shorts
+Romantic,Male,Mild,Sporty,Casual blazer and jeans
+Happy,Female,Warm,Sporty,Warm hoodie and jeans
+Neutral,Male,Mild,Trendy,Casual t-shirt and chinos
+Angry,Female,Warm,Sporty,Dark casual dress
+Neutral,Female,Cold,Ethnic,Casual t-shirt and jeans
+Excited,Female,Mild,Sporty,Summer dress with sandals
+Neutral,Female,Warm,Ethnic,Casual t-shirt and jeans
+Sad,Female,Warm,Sporty,Warm sweater with jeans
+Neutral,Male,Cold,Casual,Sweatshirt and jeans
+Lazy,Female,Mild,Sporty,Sweatpants and hoodie
+Sad,Female,Cold,Sporty,Warm sweater with jeans
+Sad,Female,Mild,Formal,Loose kurti with palazzos
+Happy,Male,Cold,Ethnic,Warm hoodie and jeans
+Neutral,Female,Cold,Trendy,Simple kurti with palazzos
+Romantic,Female,Cold,Ethnic,Ethnic saree with blouse
+Happy,Male,Mild,Ethnic,Light cotton shirt with shorts
+Sad,Female,Warm,Formal,Warm sweater with jeans
+Happy,Male,Cold,Ethnic,Formal shirt and trousers
+Romantic,Male,Mild,Formal,Casual blazer and jeans
+Excited,Female,Warm,Casual,Ethnic saree with blouse
+Neutral,Female,Cold,Ethnic,Casual t-shirt and jeans
+Excited,Female,Warm,Formal,Ethnic saree with blouse
+Sad,Female,Warm,Ethnic,Loose kurti with palazzos
+Neutral,Female,Warm,Sporty,Casual t-shirt and jeans
+Romantic,Male,Mild,Trendy,Formal shirt and trousers
+Neutral,Female,Mild,Formal,Simple kurti with palazzos
+Neutral,Female,Mild,Trendy,Simple kurti with palazzos
+Excited,Female,Warm,Trendy,Ethnic saree with blouse
+Romantic,Female,Warm,Formal,Ethnic saree with blouse
+Neutral,Male,Mild,Ethnic,Sweatshirt and jeans
+Angry,Female,Warm,Casual,Black leather jacket and ripped jeans
+Sad,Female,Cold,Sporty,Warm sweater with jeans
+Lazy,Male,Mild,Sporty,Warm hoodie and jeans
+Neutral,Male,Cold,Trendy,Sweatshirt and jeans
+Excited,Female,Warm,Casual,Summer dress with sandals
+Angry,Male,Warm,Ethnic,Black t-shirt with cargo pants
+Happy,Female,Warm,Formal,Warm hoodie and jeans
+Happy,Male,Warm,Casual,Formal shirt and trousers
+Neutral,Male,Cold,Casual,Casual t-shirt and chinos
+Romantic,Male,Warm,Trendy,Casual blazer and jeans
+Romantic,Male,Mild,Formal,Formal shirt and trousers
+Happy,Male,Warm,Ethnic,Sporty Tracksuit
+Excited,Female,Cold,Trendy,Summer dress with sandals
+Happy,Female,Cold,Trendy,Warm hoodie and jeans
+Excited,Female,Mild,Trendy,Ethnic saree with blouse
+Romantic,Male,Warm,Ethnic,Casual blazer and jeans
+Lazy,Male,Cold,Trendy,Casual t-shirt and shorts
+Neutral,Female,Cold,Casual,Casual t-shirt and jeans
+Sad,Female,Warm,Formal,Warm sweater with jeans
+Sad,Female,Warm,Trendy,Loose kurti with palazzos
+Angry,Female,Mild,Ethnic,Black leather jacket and ripped jeans
+Excited,Female,Warm,Sporty,Ethnic saree with blouse
+Angry,Male,Warm,Sporty,Black t-shirt with cargo pants
+Excited,Female,Mild,Ethnic,Summer dress with sandals
+Happy,Male,Warm,Formal,Sporty Tracksuit
+Angry,Male,Warm,Ethnic,Dark leather jacket and ripped jeans
+Excited,Male,Mild,Formal,Sporty Tracksuit
+Lazy,Male,Cold,Sporty,Sweatpants and sweatshirt
+Romantic,Female,Cold,Formal,Ethnic saree with blouse
+Angry,Male,Warm,Ethnic,Dark leather jacket and ripped jeans
+Lazy,Female,Cold,Trendy,Loose kurti with palazzos
+Romantic,Female,Cold,Sporty,Ethnic saree with blouse
+Angry,Female,Warm,Trendy,Dark casual dress
+Neutral,Female,Cold,Trendy,Casual t-shirt and jeans
+Neutral,Male,Mild,Sporty,Casual t-shirt and chinos
+Sad,Female,Mild,Ethnic,Loose kurti with palazzos
+Neutral,Male,Warm,Formal,Casual t-shirt and chinos
+Excited,Male,Warm,Ethnic,Formal shirt and trousers
+Angry,Male,Warm,Trendy,Black t-shirt with cargo pants
+Romantic,Male,Mild,Casual,Formal shirt and trousers
+Romantic,Male,Cold,Casual,Formal shirt and trousers
+Sad,Female,Mild,Ethnic,Warm sweater with jeans
+Angry,Female,Warm,Ethnic,Black leather jacket and ripped jeans
+Lazy,Male,Mild,Sporty,Sweatpants and sweatshirt
+Excited,Male,Cold,Formal,Sporty Tracksuit
+Lazy,Female,Cold,Ethnic,Loose kurti with palazzos
+Angry,Male,Warm,Formal,Black t-shirt with cargo pants
+Lazy,Female,Cold,Sporty,Sweatpants and hoodie
+Excited,Male,Cold,Trendy,Sporty Tracksuit
+Lazy,Male,Warm,Sporty,Warm hoodie and jeans
+Angry,Male,Cold,Casual,Dark leather jacket and ripped jeans
+Neutral,Male,Warm,Sporty,Casual t-shirt and chinos
+Excited,Female,Mild,Ethnic,Ethnic saree with blouse
+Sad,Female,Cold,Sporty,Loose kurti with palazzos
+Sad,Male,Warm,Sporty,Warm sweater with jeans
+Happy,Female,Mild,Sporty,Warm hoodie and jeans
+Romantic,Male,Cold,Formal,Formal shirt and trousers
+Excited,Male,Warm,Trendy,Sporty Tracksuit
+Romantic,Female,Mild,Casual,Ethnic saree with blouse
+Neutral,Female,Warm,Trendy,Casual t-shirt and jeans
+Sad,Male,Cold,Sporty,Warm sweater with jeans
+Angry,Female,Warm,Ethnic,Dark casual dress
+Excited,Male,Mild,Sporty,Formal shirt and trousers
+Sad,Male,Cold,Trendy,Dark leather jacket and ripped jeans
+Neutral,Male,Cold,Ethnic,Casual t-shirt and chinos
+Excited,Female,Cold,Sporty,Ethnic saree with blouse
+Angry,Male,Warm,Sporty,Black t-shirt with cargo pants
+Excited,Female,Cold,Sporty,Trendy crop top and jeans
+Romantic,Male,Warm,Ethnic,Casual blazer and jeans
+Excited,Female,Cold,Trendy,Summer dress with sandals
+Sad,Female,Warm,Sporty,Warm sweater with jeans
+Lazy,Male,Mild,Sporty,Warm hoodie and jeans
+Romantic,Female,Cold,Casual,Ethnic saree with blouse
+Neutral,Male,Mild,Formal,Casual t-shirt and chinos
+Happy,Male,Cold,Ethnic,Formal shirt and trousers
+Excited,Female,Warm,Trendy,Ethnic saree with blouse
+Happy,Female,Mild,Sporty,Trendy crop top and jeans
+Romantic,Male,Warm,Trendy,Casual blazer and jeans
+Neutral,Male,Mild,Sporty,Casual t-shirt and chinos
+Neutral,Female,Cold,Formal,Simple kurti with palazzos
+Romantic,Male,Mild,Trendy,Formal shirt and trousers
+Romantic,Female,Mild,Sporty,Elegant floral dress
+Happy,Male,Mild,Ethnic,Blazer & Jeans
+Excited,Female,Mild,Casual,Summer dress with sandals
+Romantic,Male,Mild,Casual,Formal shirt and trousers
+Excited,Female,Mild,Formal,Summer dress with sandals
+Romantic,Male,Cold,Casual,Formal shirt and trousers
+Happy,Female,Warm,Formal,Summer dress with sandals
+Angry,Female,Cold,Ethnic,Black leather jacket and ripped jeans
+Lazy,Male,Cold,Trendy,Warm hoodie and jeans
+Romantic,Female,Warm,Sporty,Ethnic saree with blouse
+Romantic,Female,Warm,Ethnic,Elegant floral dress
+Sad,Male,Mild,Formal,Warm sweater with jeans
+Angry,Male,Mild,Casual,Dark leather jacket and ripped jeans
+Happy,Male,Mild,Ethnic,Blazer & Jeans
+Neutral,Male,Cold,Trendy,Casual t-shirt and chinos
+Excited,Female,Cold,Trendy,Summer dress with sandals
+Lazy,Female,Cold,Trendy,Sweatpants and hoodie
+Sad,Female,Warm,Formal,Loose kurti with palazzos
+Lazy,Female,Cold,Sporty,Sweatpants and hoodie
+Romantic,Male,Cold,Ethnic,Casual blazer and jeans
+Neutral,Male,Cold,Ethnic,Sweatshirt and jeans
+Sad,Female,Warm,Formal,Loose kurti with palazzos
+Happy,Female,Cold,Ethnic,Kurti with palazzos
+Happy,Female,Cold,Sporty,Trendy crop top and jeans
+Lazy,Female,Cold,Formal,Sweatpants and hoodie
+Angry,Female,Cold,Trendy,Dark casual dress
+Sad,Male,Mild,Ethnic,Dark leather jacket and ripped jeans
+Angry,Male,Warm,Ethnic,Black t-shirt with cargo pants
+Romantic,Female,Mild,Sporty,Elegant floral dress
+Happy,Female,Warm,Sporty,Trendy crop top and jeans
+Excited,Male,Warm,Formal,Formal shirt and trousers
+Excited,Female,Warm,Ethnic,Ethnic saree with blouse
+Lazy,Male,Cold,Ethnic,Sweatpants and sweatshirt
+Neutral,Female,Mild,Casual,Casual t-shirt and jeans
+Sad,Female,Cold,Sporty,Loose kurti with palazzos
+Sad,Female,Cold,Ethnic,Loose kurti with palazzos
+Happy,Male,Mild,Formal,Formal shirt and trousers
+Romantic,Female,Cold,Ethnic,Ethnic saree with blouse
+Neutral,Female,Cold,Formal,Simple kurti with palazzos
+Happy,Female,Warm,Trendy,Ethnic saree with blouse
+Neutral,Female,Cold,Sporty,Simple kurti with palazzos
+Angry,Female,Cold,Trendy,Dark casual dress
+Excited,Male,Cold,Ethnic,Sporty Tracksuit
+Excited,Female,Cold,Trendy,Trendy crop top and jeans
+Happy,Female,Warm,Ethnic,Summer dress with sandals
+Happy,Female,Mild,Formal,Warm hoodie and jeans
+Happy,Female,Warm,Trendy,Kurti with palazzos
+Neutral,Male,Mild,Trendy,Casual t-shirt and chinos
+Lazy,Female,Mild,Formal,Sweatpants and hoodie
+Angry,Male,Mild,Casual,Black t-shirt with cargo pants
+Angry,Female,Warm,Casual,Dark casual dress
+Sad,Male,Cold,Casual,Warm sweater with jeans
+Romantic,Female,Warm,Casual,Ethnic saree with blouse
+Sad,Male,Warm,Formal,Dark leather jacket and ripped jeans
+Sad,Male,Cold,Sporty,Warm sweater with jeans
